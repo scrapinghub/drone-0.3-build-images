@@ -1,1 +1,0 @@
-source /home/ubuntu/virtualenv/python3.3/bin/activate

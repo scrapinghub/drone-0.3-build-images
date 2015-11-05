@@ -1,1 +1,0 @@
-. /opt/R16B01/activate

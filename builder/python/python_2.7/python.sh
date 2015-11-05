@@ -1,1 +1,0 @@
-source /home/ubuntu/virtualenv/python2.7/bin/activate

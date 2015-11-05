@@ -1,1 +1,0 @@
-source /home/ubuntu/virtualenv/pypy/bin/activate
